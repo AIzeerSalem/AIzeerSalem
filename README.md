@@ -1,4 +1,4 @@
-<h1 align="center">✨AIzeer Salem✨</h1>
+<h1 align="center">👾AIzeer Salem👾</h1>
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3AwbTNmY3p6cXpuM2V1aGFtdXhvbXpjMTQyZ2dhdHA1ZHBmZjVwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KcMpL8GebR6ygaSRwx/giphy.gif" width="140" /> 
